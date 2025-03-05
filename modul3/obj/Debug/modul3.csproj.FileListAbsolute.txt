@@ -1,0 +1,10 @@
+D:\modul3\bin\Debug\modul3.exe.config
+D:\modul3\bin\Debug\modul3.exe
+D:\modul3\bin\Debug\modul3.pdb
+D:\modul3\obj\Debug\modul3.csproj.AssemblyReference.cache
+D:\modul3\obj\Debug\modul3.Form1.resources
+D:\modul3\obj\Debug\modul3.Properties.Resources.resources
+D:\modul3\obj\Debug\modul3.csproj.GenerateResource.cache
+D:\modul3\obj\Debug\modul3.csproj.CoreCompileInputs.cache
+D:\modul3\obj\Debug\modul3.exe
+D:\modul3\obj\Debug\modul3.pdb
